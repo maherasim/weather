@@ -4,7 +4,7 @@ The Weather Forecasting App is a web application built with Laravel and PHP that
 
 ## Table of Contents
 
-- [Features](#features)
+- [Features]
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Key](#api-key)
